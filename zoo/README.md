@@ -10,6 +10,6 @@ Basic directory structure
 ## test
 * Filenames for testing must ends \_test.go
 * Function names must be `TestXxx`
-`go test -v`
-`go test -v ./animals`
+* `go test -v`
+* `go test -v ./animals`
 
